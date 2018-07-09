@@ -13,6 +13,7 @@ end
 
 def long_planeteer_calls(words)
   words.any? == words.length > 4
+  end
 end
 
 def find_the_cheese(cheese_types)
